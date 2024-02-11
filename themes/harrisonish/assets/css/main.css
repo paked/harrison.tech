@@ -40,7 +40,7 @@ header li {
 }
 
 header li:not(:first-child) {
-  margin-left: .5rem;
+  margin-left: 1em;
 }
 
 header li.lead {
