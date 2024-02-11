@@ -1,16 +1,16 @@
 name = 'harrisonish'
 license = 'MIT'
 licenselink = 'https://github.com/owner/repo/LICENSE'
-description = 'Theme description'
+description = 'customish rolled theme for harrison.tech'
 
 # The home page of the theme, where the source can be found
 homepage = 'https://github.com/owner/repo'
 
 # Taxonomy terms
-tags = ['blog', 'company']
-features = ['some', 'awesome', 'features']
+tags = ['blog', 'personal']
+features = ['blog', 'tags']
 
 # If the theme has a single author
 [author]
-  name = 'Harriosn Shoebridge'
-  homepage = 'harrison.tech'
+  name = 'Harrison Shoebridge'
+  homepage = 'https://harrison.tech'
