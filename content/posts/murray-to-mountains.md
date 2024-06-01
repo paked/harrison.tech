@@ -2,6 +2,7 @@
 title = 'Trip Report: Murray to Mountains Rail Trail'
 date = 2024-06-01T15:23:26+10:00
 draft = false
+tags = ['outdoors']
 +++
 
 We had a weekend set aside, a meeting point (Albury), a theme (cycle-camping), but no plan for how we would actually spend our time. While convened on a park bench, chowing through 2x pizzas and 2x cash-only HSPs, our group of three picked a local rail trail to explore for the following two days.
