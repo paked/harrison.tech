@@ -3,5 +3,4 @@
 <meta name="description" content="Harrison Shoebridge's personal website. Programming, cycling, cooking. Not necessarily in that order.">
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-{{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
+{{ partialCached "resources/css.html" . }}

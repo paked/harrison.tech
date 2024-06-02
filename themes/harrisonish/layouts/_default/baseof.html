@@ -9,5 +9,7 @@
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+
+  {{ partialCached "resources/js.html" . }}
 </body>
 </html>
