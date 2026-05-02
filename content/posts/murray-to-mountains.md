@@ -1,7 +1,7 @@
 +++
 title = 'Trip Report: Murray to Mountains Rail Trail'
 date = 2024-06-01T15:23:26+10:00
-draft = false
+draft = true
 tags = ['outdoors']
 +++
 
