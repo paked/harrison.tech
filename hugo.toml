@@ -2,3 +2,8 @@ baseURL = 'https://harrison.tech'
 languageCode = 'en-AU'
 title = "harrison.tech | Harrison Shoebridge's website"
 theme = 'harrisonish'
+
+# GitHub Actions workflow uses --cacheDir; keep image cache on that volume (see Hugo “Host on GitHub Pages”).
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
